@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <nhanvien manv="nv01">
+    <hoten>Nguyen Van F</hoten>
+    <diachi>Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv02">
+    <hoten>Nguyen Van B</hoten>
+    <diachi>Đà Nẵng</diachi>
+  </nhanvien>
+  <nhanvien manv="nv03">
+    <hoten>Nguyen Van C</hoten>
+    <diachi>Hải Phòng</diachi>
+  </nhanvien>
+  <nhanvien manv="nv05">
+    <hoten>Mạnh mao</hoten>
+    <diachi>Hà Nam</diachi>
+  </nhanvien>
+</ds>
